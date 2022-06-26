@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-26T14:42:45.443Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="lDzeetllwoJwKQpk7FxH" version="20.0.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-06-26T14:46:02.131Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="8nweeM2XC3J4Cr7ketXk" version="20.0.1" type="github" pages="2">
   <diagram id="xiGKXkvUPQ8OhJR_8ert" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -451,8 +451,24 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="ouYZ87-VFuoqLtjuJrLR-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="y80oxE0x33iAmiCYXVPJ-4" target="ouYZ87-VFuoqLtjuJrLR-19">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="490" y="4645" />
+              <mxPoint x="490" y="3060" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="y80oxE0x33iAmiCYXVPJ-4" value="Probability" style="ellipse;whiteSpace=wrap;html=1;fontSize=28;" parent="1" vertex="1">
           <mxGeometry x="160.63" y="4580" width="230" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="ouYZ87-VFuoqLtjuJrLR-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="y80oxE0x33iAmiCYXVPJ-5" target="ouYZ87-VFuoqLtjuJrLR-21">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="520" y="4840" />
+              <mxPoint x="520" y="3410" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="y80oxE0x33iAmiCYXVPJ-5" value="Conditional Probability" style="ellipse;whiteSpace=wrap;html=1;fontSize=28;" parent="1" vertex="1">
           <mxGeometry x="154.38" y="4770" width="240" height="140" as="geometry" />
@@ -462,6 +478,14 @@
         </mxCell>
         <mxCell id="y80oxE0x33iAmiCYXVPJ-6" value="Probability Mass Function" style="ellipse;whiteSpace=wrap;html=1;fontSize=28;" parent="1" vertex="1">
           <mxGeometry x="145.63" y="4960" width="260" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="ouYZ87-VFuoqLtjuJrLR-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="y80oxE0x33iAmiCYXVPJ-7" target="ouYZ87-VFuoqLtjuJrLR-23">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="590" y="5265" />
+              <mxPoint x="590" y="3269" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="y80oxE0x33iAmiCYXVPJ-7" value="Cumulative Distribution Function" style="ellipse;whiteSpace=wrap;html=1;fontSize=28;" parent="1" vertex="1">
           <mxGeometry x="149.38" y="5190" width="250" height="150" as="geometry" />
@@ -522,6 +546,14 @@
         <mxCell id="y80oxE0x33iAmiCYXVPJ-18" value="Uniform Distribution" style="ellipse;whiteSpace=wrap;html=1;fontSize=28;" parent="1" vertex="1">
           <mxGeometry x="148.76" y="6200" width="260" height="150" as="geometry" />
         </mxCell>
+        <mxCell id="ouYZ87-VFuoqLtjuJrLR-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="y80oxE0x33iAmiCYXVPJ-19" target="ouYZ87-VFuoqLtjuJrLR-23">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="550" y="6075" />
+              <mxPoint x="550" y="3220" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="y80oxE0x33iAmiCYXVPJ-19" value="Probability Distribution Function" style="ellipse;whiteSpace=wrap;html=1;fontSize=28;" parent="1" vertex="1">
           <mxGeometry x="148.76" y="6000" width="260" height="150" as="geometry" />
         </mxCell>
@@ -551,6 +583,15 @@
         </mxCell>
         <mxCell id="ouYZ87-VFuoqLtjuJrLR-1" value="Numerical data" style="ellipse;whiteSpace=wrap;html=1;fontSize=28;" vertex="1" parent="1">
           <mxGeometry x="148.75" y="3270" width="246.24" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="ouYZ87-VFuoqLtjuJrLR-19" value="Random Experiments and Events" style="ellipse;whiteSpace=wrap;html=1;fontSize=28;" vertex="1" parent="1">
+          <mxGeometry x="631.25" y="2990" width="260" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="ouYZ87-VFuoqLtjuJrLR-21" value="Bayes Theorem" style="ellipse;whiteSpace=wrap;html=1;fontSize=28;" vertex="1" parent="1">
+          <mxGeometry x="632.5" y="3340" width="260" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="ouYZ87-VFuoqLtjuJrLR-23" value="Probability Distributions" style="ellipse;whiteSpace=wrap;html=1;fontSize=28;" vertex="1" parent="1">
+          <mxGeometry x="635.01" y="3150" width="260" height="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
