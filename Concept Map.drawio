@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-27T07:29:41.634Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="9zrhYvGa2DqLPyVWmFB5" version="20.0.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-06-27T07:34:02.230Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="gU8XMrYsoGTyp1U1C2ZI" version="20.0.3" type="github" pages="2">
   <diagram id="xiGKXkvUPQ8OhJR_8ert" name="Page-1">
     <mxGraphModel dx="1483" dy="781" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -499,6 +499,14 @@
             <Array as="points">
               <mxPoint x="1220" y="2325" />
               <mxPoint x="1220" y="3389" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="h3QKCOle_QqqLjs1MJjv-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;fontSize=28;" edge="1" parent="1" source="E1f6eCJ7xYabJAEgWiuG-13" target="h3QKCOle_QqqLjs1MJjv-63">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1120" y="2325" />
+              <mxPoint x="1120" y="5089" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -1068,6 +1076,14 @@
         <mxCell id="h3QKCOle_QqqLjs1MJjv-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=28;" edge="1" parent="1" source="h3QKCOle_QqqLjs1MJjv-55" target="h3QKCOle_QqqLjs1MJjv-57">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="h3QKCOle_QqqLjs1MJjv-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=28;" edge="1" parent="1" source="h3QKCOle_QqqLjs1MJjv-55" target="h3QKCOle_QqqLjs1MJjv-64">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1390" y="4186" />
+              <mxPoint x="1390" y="4946" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="h3QKCOle_QqqLjs1MJjv-55" value="Constrained Optimisation" style="ellipse;whiteSpace=wrap;html=1;fontSize=28;" vertex="1" parent="1">
           <mxGeometry x="1520" y="4120" width="254.99" height="130" as="geometry" />
         </mxCell>
@@ -1082,6 +1098,15 @@
         </mxCell>
         <mxCell id="h3QKCOle_QqqLjs1MJjv-61" value="Convex Sets and Functions" style="ellipse;whiteSpace=wrap;html=1;fontSize=28;" vertex="1" parent="1">
           <mxGeometry x="1522" y="4680" width="254.99" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="h3QKCOle_QqqLjs1MJjv-63" value="KKT Conditions" style="ellipse;whiteSpace=wrap;html=1;fontSize=28;" vertex="1" parent="1">
+          <mxGeometry x="1520" y="5070" width="254.99" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="h3QKCOle_QqqLjs1MJjv-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=28;" edge="1" parent="1" source="h3QKCOle_QqqLjs1MJjv-64" target="h3QKCOle_QqqLjs1MJjv-63">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="h3QKCOle_QqqLjs1MJjv-64" value="Dual and Primal Problems" style="ellipse;whiteSpace=wrap;html=1;fontSize=28;" vertex="1" parent="1">
+          <mxGeometry x="1520" y="4880" width="254.99" height="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
