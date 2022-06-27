@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-27T07:43:02.605Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="xv5_P2mE-9raxjyMNQeF" version="20.0.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-06-27T07:48:47.153Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="4TnNEZbgiT_r6AhuD2i4" version="20.0.3" type="github" pages="2">
   <diagram id="xiGKXkvUPQ8OhJR_8ert" name="Page-1">
     <mxGraphModel dx="1483" dy="781" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -506,8 +506,8 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1320" y="4850" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1120" y="2325" />
-              <mxPoint x="1120" y="4865" />
+              <mxPoint x="1140" y="2325" />
+              <mxPoint x="1140" y="4865" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -768,11 +768,27 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="h3QKCOle_QqqLjs1MJjv-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;fontSize=28;" edge="1" parent="1" source="ouYZ87-VFuoqLtjuJrLR-19" target="h3QKCOle_QqqLjs1MJjv-68">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1070" y="3060" />
+              <mxPoint x="1070" y="5043" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="ouYZ87-VFuoqLtjuJrLR-19" value="Multiple Random variables" style="ellipse;whiteSpace=wrap;html=1;fontSize=28;" parent="1" vertex="1">
           <mxGeometry x="631.25" y="2990" width="260" height="140" as="geometry" />
         </mxCell>
         <mxCell id="ouYZ87-VFuoqLtjuJrLR-21" value="Bayes Theorem" style="ellipse;whiteSpace=wrap;html=1;fontSize=28;" parent="1" vertex="1">
           <mxGeometry x="632.5" y="3340" width="260" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="h3QKCOle_QqqLjs1MJjv-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=28;" edge="1" parent="1" source="ouYZ87-VFuoqLtjuJrLR-23" target="h3QKCOle_QqqLjs1MJjv-68">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1040" y="3220" />
+              <mxPoint x="1040" y="5100" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="ouYZ87-VFuoqLtjuJrLR-23" value="Probability Distributions" style="ellipse;whiteSpace=wrap;html=1;fontSize=28;" parent="1" vertex="1">
           <mxGeometry x="635.01" y="3150" width="260" height="140" as="geometry" />
@@ -1111,6 +1127,9 @@
         </mxCell>
         <mxCell id="h3QKCOle_QqqLjs1MJjv-64" value="Dual and Primal Problems" style="ellipse;whiteSpace=wrap;html=1;fontSize=28;" vertex="1" parent="1">
           <mxGeometry x="1522" y="4610" width="254.99" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="h3QKCOle_QqqLjs1MJjv-68" value="Probabilistic Models in Machine Learning" style="ellipse;whiteSpace=wrap;html=1;fontSize=28;" vertex="1" parent="1">
+          <mxGeometry x="1510.5" y="5020" width="278" height="160" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
