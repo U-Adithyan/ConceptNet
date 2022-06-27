@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-27T06:16:45.734Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="F3uLGgPHO7WTQ0eP091k" version="20.0.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-06-27T07:25:22.448Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="OLIPiQHjaxnaC8W118KG" version="20.0.3" type="github" pages="2">
   <diagram id="xiGKXkvUPQ8OhJR_8ert" name="Page-1">
     <mxGraphModel dx="1483" dy="781" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -513,6 +513,14 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="h3QKCOle_QqqLjs1MJjv-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=28;" edge="1" parent="1" source="E1f6eCJ7xYabJAEgWiuG-14" target="h3QKCOle_QqqLjs1MJjv-47">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1180" y="2515" />
+              <mxPoint x="1180" y="3815" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="E1f6eCJ7xYabJAEgWiuG-14" value="Directional Ascent-Descent and Critical Points" style="ellipse;whiteSpace=wrap;html=1;fontSize=28;" parent="1" vertex="1">
           <mxGeometry x="623.75" y="2430" width="290" height="170" as="geometry" />
         </mxCell>
@@ -1015,6 +1023,31 @@
         </mxCell>
         <mxCell id="h3QKCOle_QqqLjs1MJjv-41" value="Positive Definiteness" style="ellipse;whiteSpace=wrap;html=1;fontSize=28;" vertex="1" parent="1">
           <mxGeometry x="1520" y="3170" width="254.99" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="h3QKCOle_QqqLjs1MJjv-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=28;" edge="1" parent="1" source="h3QKCOle_QqqLjs1MJjv-46" target="h3QKCOle_QqqLjs1MJjv-51">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1410" y="3635" />
+              <mxPoint x="1410" y="3995" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="h3QKCOle_QqqLjs1MJjv-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;fontSize=28;" edge="1" parent="1" source="h3QKCOle_QqqLjs1MJjv-46" target="h3QKCOle_QqqLjs1MJjv-47">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1410" y="3635" />
+              <mxPoint x="1410" y="3769" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="h3QKCOle_QqqLjs1MJjv-46" value="Optimisation" style="ellipse;whiteSpace=wrap;html=1;fontSize=28;" vertex="1" parent="1">
+          <mxGeometry x="1520" y="3570" width="254.99" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="h3QKCOle_QqqLjs1MJjv-47" value="Gradient Descent&lt;br&gt;Algorithm" style="ellipse;whiteSpace=wrap;html=1;fontSize=28;" vertex="1" parent="1">
+          <mxGeometry x="1522" y="3750" width="254.99" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="h3QKCOle_QqqLjs1MJjv-51" value="Taylor Series" style="ellipse;whiteSpace=wrap;html=1;fontSize=28;" vertex="1" parent="1">
+          <mxGeometry x="1520" y="3930" width="254.99" height="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
