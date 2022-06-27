@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-27T05:23:47.078Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="O7Ec8xiIkSTYQ90NAhse" version="20.0.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-06-27T05:32:29.660Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="cvSOxXOYPKj-SzjhjoeX" version="20.0.3" type="github" pages="2">
   <diagram id="xiGKXkvUPQ8OhJR_8ert" name="Page-1">
     <mxGraphModel dx="1483" dy="781" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -175,7 +175,7 @@
               <mxPoint x="470" y="310" />
               <mxPoint x="470" y="420" />
               <mxPoint x="951" y="420" />
-              <mxPoint x="951" y="529" />
+              <mxPoint x="951" y="499" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -214,8 +214,8 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="960" y="1296" />
-              <mxPoint x="960" y="570" />
-              <mxPoint x="1520" y="570" />
+              <mxPoint x="960" y="540" />
+              <mxPoint x="1520" y="540" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -260,8 +260,7 @@
             <Array as="points">
               <mxPoint x="403" y="1860" />
               <mxPoint x="1010" y="1860" />
-              <mxPoint x="1010" y="600" />
-              <mxPoint x="1530" y="600" />
+              <mxPoint x="1010" y="575" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -321,6 +320,13 @@
         <mxCell id="E1f6eCJ7xYabJAEgWiuG-2" value="System of Linear Equations" style="ellipse;whiteSpace=wrap;html=1;fontSize=28;" parent="1" vertex="1">
           <mxGeometry x="640" y="450" width="253.75" height="130" as="geometry" />
         </mxCell>
+        <mxCell id="h3QKCOle_QqqLjs1MJjv-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;fontSize=28;" edge="1" parent="1" source="E1f6eCJ7xYabJAEgWiuG-3" target="h3QKCOle_QqqLjs1MJjv-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="889" y="679" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="E1f6eCJ7xYabJAEgWiuG-3" value="Row Echleon Form" style="ellipse;whiteSpace=wrap;html=1;fontSize=28;" parent="1" vertex="1">
           <mxGeometry x="648.75" y="620" width="240" height="130" as="geometry" />
         </mxCell>
@@ -359,8 +365,16 @@
         <mxCell id="h3QKCOle_QqqLjs1MJjv-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;fontSize=28;" edge="1" parent="1" source="E1f6eCJ7xYabJAEgWiuG-4" target="h3QKCOle_QqqLjs1MJjv-8">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1120" y="865" />
-              <mxPoint x="1120" y="779" />
+              <mxPoint x="887" y="860" />
+              <mxPoint x="1557" y="860" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="h3QKCOle_QqqLjs1MJjv-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=28;" edge="1" parent="1" source="E1f6eCJ7xYabJAEgWiuG-4" target="h3QKCOle_QqqLjs1MJjv-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1070" y="820" />
+              <mxPoint x="1070" y="725" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -392,6 +406,14 @@
         <mxCell id="E1f6eCJ7xYabJAEgWiuG-9" value="Linear Transformation" style="ellipse;whiteSpace=wrap;html=1;fontSize=28;" parent="1" vertex="1">
           <mxGeometry x="637.1899999999999" y="1505" width="250.62" height="140" as="geometry" />
         </mxCell>
+        <mxCell id="h3QKCOle_QqqLjs1MJjv-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;fontSize=28;" edge="1" parent="1" source="E1f6eCJ7xYabJAEgWiuG-10" target="h3QKCOle_QqqLjs1MJjv-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1100" y="1770" />
+              <mxPoint x="1100" y="771" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="E1f6eCJ7xYabJAEgWiuG-10" value="Kernel and Image Space" style="ellipse;whiteSpace=wrap;html=1;fontSize=28;" parent="1" vertex="1">
           <mxGeometry x="647.5" y="1700" width="242.5" height="140" as="geometry" />
         </mxCell>
@@ -405,7 +427,8 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1160" y="2135" />
-              <mxPoint x="1160" y="825" />
+              <mxPoint x="1160" y="900" />
+              <mxPoint x="1520" y="900" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -424,7 +447,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1040" y="2325" />
-              <mxPoint x="1040" y="640" />
+              <mxPoint x="1040" y="610" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -830,19 +853,22 @@
           <mxGeometry x="632.5" y="6230" width="260" height="140" as="geometry" />
         </mxCell>
         <mxCell id="h3QKCOle_QqqLjs1MJjv-1" value="Introduction to Machine Learning" style="ellipse;whiteSpace=wrap;html=1;fontSize=28;" vertex="1" parent="1">
-          <mxGeometry x="1520" y="280" width="254.99" height="130" as="geometry" />
+          <mxGeometry x="1520" y="300" width="254.99" height="130" as="geometry" />
         </mxCell>
         <mxCell id="h3QKCOle_QqqLjs1MJjv-2" value="Basic Calculus" style="ellipse;whiteSpace=wrap;html=1;fontSize=28;" vertex="1" parent="1">
-          <mxGeometry x="1520" y="510" width="254.99" height="130" as="geometry" />
+          <mxGeometry x="1520" y="480" width="254.99" height="130" as="geometry" />
         </mxCell>
         <mxCell id="h3QKCOle_QqqLjs1MJjv-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=28;" edge="1" parent="1" source="h3QKCOle_QqqLjs1MJjv-8" target="h3QKCOle_QqqLjs1MJjv-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="h3QKCOle_QqqLjs1MJjv-8" value="Projections" style="ellipse;whiteSpace=wrap;html=1;fontSize=28;" vertex="1" parent="1">
-          <mxGeometry x="1520" y="760" width="254.99" height="130" as="geometry" />
+          <mxGeometry x="1520" y="840" width="254.99" height="130" as="geometry" />
         </mxCell>
         <mxCell id="h3QKCOle_QqqLjs1MJjv-11" value="Least Sqaures Regression" style="ellipse;whiteSpace=wrap;html=1;fontSize=28;" vertex="1" parent="1">
-          <mxGeometry x="1520" y="990" width="254.99" height="130" as="geometry" />
+          <mxGeometry x="1520" y="1080" width="254.99" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="h3QKCOle_QqqLjs1MJjv-13" value="4 Fundamental Subspaces" style="ellipse;whiteSpace=wrap;html=1;fontSize=28;" vertex="1" parent="1">
+          <mxGeometry x="1520" y="660" width="254.99" height="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
