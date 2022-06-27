@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-27T07:50:17.272Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="Ys3Pff3wxHgrWorkZ4p4" version="20.0.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-06-27T08:01:59.682Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="A_d-VmuoSPekoieWzr2u" version="20.0.3" type="github" pages="2">
   <diagram id="xiGKXkvUPQ8OhJR_8ert" name="Page-1">
     <mxGraphModel dx="1483" dy="781" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -173,9 +173,9 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="470" y="310" />
-              <mxPoint x="470" y="420" />
-              <mxPoint x="951" y="420" />
-              <mxPoint x="951" y="499" />
+              <mxPoint x="470" y="590" />
+              <mxPoint x="951" y="590" />
+              <mxPoint x="951" y="500" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -690,11 +690,12 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="h3QKCOle_QqqLjs1MJjv-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.304;entryY=0.974;entryDx=0;entryDy=0;fontSize=28;entryPerimeter=0;" edge="1" parent="1" source="y80oxE0x33iAmiCYXVPJ-8" target="h3QKCOle_QqqLjs1MJjv-68">
+        <mxCell id="h3QKCOle_QqqLjs1MJjv-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=28;" edge="1" parent="1" source="y80oxE0x33iAmiCYXVPJ-8" target="h3QKCOle_QqqLjs1MJjv-68">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="490" y="5465" />
               <mxPoint x="490" y="5186" />
+              <mxPoint x="1655" y="5186" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -780,7 +781,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1070" y="3060" />
-              <mxPoint x="1070" y="5043" />
+              <mxPoint x="1070" y="4995" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -794,7 +795,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1040" y="3220" />
-              <mxPoint x="1040" y="5100" />
+              <mxPoint x="1040" y="5055" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -815,6 +816,14 @@
             <Array as="points">
               <mxPoint x="590" y="4350" />
               <mxPoint x="590" y="4721" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="h3QKCOle_QqqLjs1MJjv-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;fontSize=28;" edge="1" parent="1" source="ouYZ87-VFuoqLtjuJrLR-33" target="h3QKCOle_QqqLjs1MJjv-81">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="990" y="4350" />
+              <mxPoint x="990" y="5810" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -843,6 +852,9 @@
               <mxPoint x="915" y="4521" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="h3QKCOle_QqqLjs1MJjv-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=28;" edge="1" parent="1" source="ouYZ87-VFuoqLtjuJrLR-40" target="h3QKCOle_QqqLjs1MJjv-73">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ouYZ87-VFuoqLtjuJrLR-40" value="Normal Distribution" style="ellipse;whiteSpace=wrap;html=1;fontSize=28;" parent="1" vertex="1">
           <mxGeometry x="635.01" y="3890" width="260" height="140" as="geometry" />
@@ -881,6 +893,14 @@
         </mxCell>
         <mxCell id="ouYZ87-VFuoqLtjuJrLR-42" value="Parameter Estimation" style="ellipse;whiteSpace=wrap;html=1;fontSize=28;" parent="1" vertex="1">
           <mxGeometry x="638.75" y="4700" width="260" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="h3QKCOle_QqqLjs1MJjv-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=28;" edge="1" parent="1" source="ouYZ87-VFuoqLtjuJrLR-43" target="h3QKCOle_QqqLjs1MJjv-75">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="950" y="5100" />
+              <mxPoint x="950" y="5483" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="ouYZ87-VFuoqLtjuJrLR-43" value="Maximum Likelihood Estimator" style="ellipse;whiteSpace=wrap;html=1;fontSize=28;" parent="1" vertex="1">
           <mxGeometry x="640.64" y="5030" width="260" height="140" as="geometry" />
@@ -1137,7 +1157,74 @@
           <mxGeometry x="1522" y="4610" width="254.99" height="130" as="geometry" />
         </mxCell>
         <mxCell id="h3QKCOle_QqqLjs1MJjv-68" value="Probabilistic Models in Machine Learning" style="ellipse;whiteSpace=wrap;html=1;fontSize=28;" vertex="1" parent="1">
-          <mxGeometry x="1510.5" y="5020" width="289.5" height="170" as="geometry" />
+          <mxGeometry x="1510.5" y="4970" width="289.5" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="h3QKCOle_QqqLjs1MJjv-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=28;" edge="1" parent="1" source="h3QKCOle_QqqLjs1MJjv-73" target="h3QKCOle_QqqLjs1MJjv-77">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1430" y="5330" />
+              <mxPoint x="1430" y="5685" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="h3QKCOle_QqqLjs1MJjv-73" value="Standard Normal Vector" style="ellipse;whiteSpace=wrap;html=1;fontSize=28;" vertex="1" parent="1">
+          <mxGeometry x="1527.75" y="5220" width="254.99" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="h3QKCOle_QqqLjs1MJjv-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=28;" edge="1" parent="1" source="h3QKCOle_QqqLjs1MJjv-75" target="h3QKCOle_QqqLjs1MJjv-77">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="h3QKCOle_QqqLjs1MJjv-75" value="Parameter Estimation using Machine Learning" style="ellipse;whiteSpace=wrap;html=1;fontSize=28;" vertex="1" parent="1">
+          <mxGeometry x="1502.5" y="5390" width="290" height="185" as="geometry" />
+        </mxCell>
+        <mxCell id="h3QKCOle_QqqLjs1MJjv-77" value="Gaussian Mixture Model" style="ellipse;whiteSpace=wrap;html=1;fontSize=28;" vertex="1" parent="1">
+          <mxGeometry x="1520" y="5620" width="254.99" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="h3QKCOle_QqqLjs1MJjv-80" value="Chebyshevs Inequality" style="ellipse;whiteSpace=wrap;html=1;fontSize=28;" vertex="1" parent="1">
+          <mxGeometry x="1522.74" y="6110" width="254.99" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="h3QKCOle_QqqLjs1MJjv-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=28;" edge="1" parent="1" source="h3QKCOle_QqqLjs1MJjv-81" target="h3QKCOle_QqqLjs1MJjv-84">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1360" y="5855" />
+              <mxPoint x="1360" y="6500" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="h3QKCOle_QqqLjs1MJjv-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=28;" edge="1" parent="1" source="h3QKCOle_QqqLjs1MJjv-81" target="h3QKCOle_QqqLjs1MJjv-83">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1360" y="5855" />
+              <mxPoint x="1360" y="6015" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="h3QKCOle_QqqLjs1MJjv-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=28;" edge="1" parent="1" source="h3QKCOle_QqqLjs1MJjv-81" target="h3QKCOle_QqqLjs1MJjv-80">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1360" y="5855" />
+              <mxPoint x="1360" y="6175" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="h3QKCOle_QqqLjs1MJjv-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=28;" edge="1" parent="1" source="h3QKCOle_QqqLjs1MJjv-81" target="h3QKCOle_QqqLjs1MJjv-82">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1360" y="5855" />
+              <mxPoint x="1360" y="6335" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="h3QKCOle_QqqLjs1MJjv-81" value="Laws of Large Numbers" style="ellipse;whiteSpace=wrap;html=1;fontSize=28;" vertex="1" parent="1">
+          <mxGeometry x="1520" y="5790" width="254.99" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="h3QKCOle_QqqLjs1MJjv-82" value="Hoeffding Inequality" style="ellipse;whiteSpace=wrap;html=1;fontSize=28;" vertex="1" parent="1">
+          <mxGeometry x="1525.24" y="6270" width="254.99" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="h3QKCOle_QqqLjs1MJjv-83" value="Markovs Inequality" style="ellipse;whiteSpace=wrap;html=1;fontSize=28;" vertex="1" parent="1">
+          <mxGeometry x="1525.24" y="5950" width="254.99" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="h3QKCOle_QqqLjs1MJjv-84" value="Central Limit Theorem" style="ellipse;whiteSpace=wrap;html=1;fontSize=28;" vertex="1" parent="1">
+          <mxGeometry x="1520.24" y="6430" width="260" height="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
