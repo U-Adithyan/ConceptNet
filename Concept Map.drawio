@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-06-28T09:20:37.949Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="XL2ZO9P9mW04_3MCNj_j" version="20.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-28T09:38:00.593Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="X0ZwYvbZnPS6JPWv7cE4" version="20.0.3" type="github">
   <diagram id="y4US1xTcursLQJIFUWQn" name="Page-2">
-    <mxGraphModel dx="2595" dy="1368" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="2307" dy="1216" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1383,6 +1383,14 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="GwkNrBlDfvbYiTtJVMq1-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="GwkNrBlDfvbYiTtJVMq1-62" target="GwkNrBlDfvbYiTtJVMq1-76">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2520" y="4104" />
+              <mxPoint x="2520" y="5355" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="GwkNrBlDfvbYiTtJVMq1-62" value="Decision Trees" style="ellipse;whiteSpace=wrap;html=1;fontSize=28;" vertex="1" parent="1">
           <mxGeometry x="2682.5" y="4040" width="254.99" height="130" as="geometry" />
         </mxCell>
@@ -1427,6 +1435,39 @@
         </mxCell>
         <mxCell id="GwkNrBlDfvbYiTtJVMq1-72" value="Stopping Criteria and Tree Pruning" style="ellipse;whiteSpace=wrap;html=1;fontSize=28;" vertex="1" parent="1">
           <mxGeometry x="2682.5" y="4820" width="254.99" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="GwkNrBlDfvbYiTtJVMq1-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="GwkNrBlDfvbYiTtJVMq1-74" target="GwkNrBlDfvbYiTtJVMq1-78">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2683" y="5045" />
+              <mxPoint x="2600" y="5045" />
+              <mxPoint x="2600" y="5510" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GwkNrBlDfvbYiTtJVMq1-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="GwkNrBlDfvbYiTtJVMq1-74" target="GwkNrBlDfvbYiTtJVMq1-77">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2683" y="5044" />
+              <mxPoint x="2600" y="5044" />
+              <mxPoint x="2600" y="5185" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GwkNrBlDfvbYiTtJVMq1-74" value="Ensemble Models" style="ellipse;whiteSpace=wrap;html=1;fontSize=28;" vertex="1" parent="1">
+          <mxGeometry x="2682.5" y="4970" width="254.99" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="GwkNrBlDfvbYiTtJVMq1-76" value="Random Forest" style="ellipse;whiteSpace=wrap;html=1;fontSize=28;" vertex="1" parent="1">
+          <mxGeometry x="2682.5" y="5290" width="254.99" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="GwkNrBlDfvbYiTtJVMq1-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GwkNrBlDfvbYiTtJVMq1-77" target="GwkNrBlDfvbYiTtJVMq1-76">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GwkNrBlDfvbYiTtJVMq1-77" value="Bagging" style="ellipse;whiteSpace=wrap;html=1;fontSize=28;" vertex="1" parent="1">
+          <mxGeometry x="2682.5" y="5120" width="254.99" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="GwkNrBlDfvbYiTtJVMq1-78" value="Boosting" style="ellipse;whiteSpace=wrap;html=1;fontSize=28;" vertex="1" parent="1">
+          <mxGeometry x="2682.5" y="5445" width="254.99" height="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
