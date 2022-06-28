@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-28T08:44:42.704Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="oxeBI1CI-QTTP0soMjzA" version="20.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-28T08:45:42.307Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="s3n946xABsiQ-Gu1_nFv" version="20.0.3" type="github">
   <diagram id="y4US1xTcursLQJIFUWQn" name="Page-2">
     <mxGraphModel dx="2595" dy="1368" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -1375,6 +1375,14 @@
         <mxCell id="GwkNrBlDfvbYiTtJVMq1-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GwkNrBlDfvbYiTtJVMq1-62" target="GwkNrBlDfvbYiTtJVMq1-63">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="GwkNrBlDfvbYiTtJVMq1-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="GwkNrBlDfvbYiTtJVMq1-62" target="GwkNrBlDfvbYiTtJVMq1-72">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2600" y="4105" />
+              <mxPoint x="2600" y="4885" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="GwkNrBlDfvbYiTtJVMq1-62" value="Decision Trees" style="ellipse;whiteSpace=wrap;html=1;fontSize=28;" vertex="1" parent="1">
           <mxGeometry x="2682.5" y="4040" width="254.99" height="130" as="geometry" />
         </mxCell>
@@ -1416,6 +1424,9 @@
         </mxCell>
         <mxCell id="GwkNrBlDfvbYiTtJVMq1-66" value="Gini Index" style="ellipse;whiteSpace=wrap;html=1;fontSize=28;" vertex="1" parent="1">
           <mxGeometry x="2682.5" y="4350" width="254.99" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="GwkNrBlDfvbYiTtJVMq1-72" value="Stopping Criteria and Tree Pruning" style="ellipse;whiteSpace=wrap;html=1;fontSize=28;" vertex="1" parent="1">
+          <mxGeometry x="2682.5" y="4820" width="254.99" height="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
