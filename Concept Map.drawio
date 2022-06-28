@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-06-28T09:38:00.593Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="X0ZwYvbZnPS6JPWv7cE4" version="20.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-28T09:39:49.055Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="LF1me_4Jt_V6dHf9lyf_" version="20.0.3" type="github">
   <diagram id="y4US1xTcursLQJIFUWQn" name="Page-2">
-    <mxGraphModel dx="2307" dy="1216" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="2307" dy="1113" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1466,8 +1466,30 @@
         <mxCell id="GwkNrBlDfvbYiTtJVMq1-77" value="Bagging" style="ellipse;whiteSpace=wrap;html=1;fontSize=28;" vertex="1" parent="1">
           <mxGeometry x="2682.5" y="5120" width="254.99" height="130" as="geometry" />
         </mxCell>
+        <mxCell id="GwkNrBlDfvbYiTtJVMq1-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="GwkNrBlDfvbYiTtJVMq1-78" target="GwkNrBlDfvbYiTtJVMq1-83">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2600" y="5556" />
+              <mxPoint x="2600" y="5795" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GwkNrBlDfvbYiTtJVMq1-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="GwkNrBlDfvbYiTtJVMq1-78" target="GwkNrBlDfvbYiTtJVMq1-84">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2600" y="5556" />
+              <mxPoint x="2600" y="5650" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="GwkNrBlDfvbYiTtJVMq1-78" value="Boosting" style="ellipse;whiteSpace=wrap;html=1;fontSize=28;" vertex="1" parent="1">
           <mxGeometry x="2682.5" y="5445" width="254.99" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="GwkNrBlDfvbYiTtJVMq1-83" value="Adaptive Boosting" style="ellipse;whiteSpace=wrap;html=1;fontSize=28;" vertex="1" parent="1">
+          <mxGeometry x="2675.01" y="5730" width="254.99" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="GwkNrBlDfvbYiTtJVMq1-84" value="Gradient Boosting" style="ellipse;whiteSpace=wrap;html=1;fontSize=28;" vertex="1" parent="1">
+          <mxGeometry x="2682.51" y="5585" width="254.99" height="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
