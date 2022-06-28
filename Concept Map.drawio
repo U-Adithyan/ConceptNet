@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-28T08:31:59.149Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="OSAMVF7KRC1atZYsPfQ_" version="20.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-28T08:34:19.882Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="bSbLsML2jAd-7_HYmQS8" version="20.0.3" type="github">
   <diagram id="y4US1xTcursLQJIFUWQn" name="Page-2">
     <mxGraphModel dx="2595" dy="1368" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -840,6 +840,9 @@
         <mxCell id="h3QKCOle_QqqLjs1MJjv-1" value="Introduction to Machine Learning" style="ellipse;whiteSpace=wrap;html=1;fontSize=28;" parent="1" vertex="1">
           <mxGeometry x="1520" y="300" width="254.99" height="130" as="geometry" />
         </mxCell>
+        <mxCell id="GwkNrBlDfvbYiTtJVMq1-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="h3QKCOle_QqqLjs1MJjv-2" target="h3QKCOle_QqqLjs1MJjv-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="h3QKCOle_QqqLjs1MJjv-2" value="Basic Calculus" style="ellipse;whiteSpace=wrap;html=1;fontSize=28;" parent="1" vertex="1">
           <mxGeometry x="1520" y="480" width="254.99" height="130" as="geometry" />
         </mxCell>
@@ -854,6 +857,9 @@
         </mxCell>
         <mxCell id="h3QKCOle_QqqLjs1MJjv-11" value="Least Sqaures Regression" style="ellipse;whiteSpace=wrap;html=1;fontSize=28;" parent="1" vertex="1">
           <mxGeometry x="1522" y="1040" width="254.99" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="GwkNrBlDfvbYiTtJVMq1-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="h3QKCOle_QqqLjs1MJjv-13" target="h3QKCOle_QqqLjs1MJjv-8">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="h3QKCOle_QqqLjs1MJjv-13" value="4 Fundamental Subspaces" style="ellipse;whiteSpace=wrap;html=1;fontSize=28;" parent="1" vertex="1">
           <mxGeometry x="1520" y="660" width="254.99" height="130" as="geometry" />
@@ -1296,6 +1302,15 @@
         </mxCell>
         <mxCell id="GwkNrBlDfvbYiTtJVMq1-39" value="Exponential Families" style="ellipse;whiteSpace=wrap;html=1;fontSize=28;" vertex="1" parent="1">
           <mxGeometry x="2682.5" y="2920" width="254.99" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="GwkNrBlDfvbYiTtJVMq1-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GwkNrBlDfvbYiTtJVMq1-46" target="GwkNrBlDfvbYiTtJVMq1-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GwkNrBlDfvbYiTtJVMq1-46" value="K-Nearest Neighbors" style="ellipse;whiteSpace=wrap;html=1;fontSize=28;" vertex="1" parent="1">
+          <mxGeometry x="2682.5" y="3260" width="254.99" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="GwkNrBlDfvbYiTtJVMq1-47" value="Manhattan and Euclidean Distances" style="ellipse;whiteSpace=wrap;html=1;fontSize=28;" vertex="1" parent="1">
+          <mxGeometry x="2682.5" y="3450" width="254.99" height="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
