@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-28T08:27:26.800Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="FBxAtavWlu7fSv5nosL3" version="20.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-28T08:31:59.149Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="OSAMVF7KRC1atZYsPfQ_" version="20.0.3" type="github">
   <diagram id="y4US1xTcursLQJIFUWQn" name="Page-2">
     <mxGraphModel dx="2595" dy="1368" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -1151,9 +1151,17 @@
         <mxCell id="GwkNrBlDfvbYiTtJVMq1-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GwkNrBlDfvbYiTtJVMq1-2" target="GwkNrBlDfvbYiTtJVMq1-22">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
+              <mxPoint x="2560" y="1042" />
+              <mxPoint x="2560" y="2280" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GwkNrBlDfvbYiTtJVMq1-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="GwkNrBlDfvbYiTtJVMq1-2" target="GwkNrBlDfvbYiTtJVMq1-38">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2560" y="2200" as="targetPoint" />
+            <Array as="points">
               <mxPoint x="2560" y="1041" />
-              <mxPoint x="2560" y="2270" />
-              <mxPoint x="2721" y="2270" />
+              <mxPoint x="2560" y="3145" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -1268,6 +1276,26 @@
         </mxCell>
         <mxCell id="GwkNrBlDfvbYiTtJVMq1-29" value="Naive Bayes Classifier" style="ellipse;whiteSpace=wrap;html=1;fontSize=28;" vertex="1" parent="1">
           <mxGeometry x="2682.5" y="2600" width="254.99" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="GwkNrBlDfvbYiTtJVMq1-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="GwkNrBlDfvbYiTtJVMq1-37" target="GwkNrBlDfvbYiTtJVMq1-39">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2600" y="2835" />
+              <mxPoint x="2600" y="2985" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GwkNrBlDfvbYiTtJVMq1-37" value="Generalised Linear Models" style="ellipse;whiteSpace=wrap;html=1;fontSize=28;" vertex="1" parent="1">
+          <mxGeometry x="2682.5" y="2770" width="254.99" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="GwkNrBlDfvbYiTtJVMq1-38" value="Softmax Regression" style="ellipse;whiteSpace=wrap;html=1;fontSize=28;" vertex="1" parent="1">
+          <mxGeometry x="2682.5" y="3080" width="254.99" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="GwkNrBlDfvbYiTtJVMq1-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GwkNrBlDfvbYiTtJVMq1-39" target="GwkNrBlDfvbYiTtJVMq1-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GwkNrBlDfvbYiTtJVMq1-39" value="Exponential Families" style="ellipse;whiteSpace=wrap;html=1;fontSize=28;" vertex="1" parent="1">
+          <mxGeometry x="2682.5" y="2920" width="254.99" height="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
