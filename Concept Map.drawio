@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-06-28T09:39:49.055Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="LF1me_4Jt_V6dHf9lyf_" version="20.0.3" type="github">
-  <diagram id="y4US1xTcursLQJIFUWQn" name="Page-2">
-    <mxGraphModel dx="2307" dy="1113" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
+<mxfile host="app.diagrams.net" modified="2022-06-28T10:14:31.454Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="ZfSbOVcObFgD2SI4thh4" version="20.0.3" type="github">
+  <diagram id="y4US1xTcursLQJIFUWQn" name="28 June">
+    <mxGraphModel dx="4152" dy="1988" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -577,7 +577,7 @@
           <mxGeometry x="148.76" y="4120" width="250" height="160" as="geometry" />
         </mxCell>
         <mxCell id="y80oxE0x33iAmiCYXVPJ-15" value="Binomial Random Variable" style="ellipse;whiteSpace=wrap;html=1;fontSize=28;" parent="1" vertex="1">
-          <mxGeometry x="145.63" y="5600" width="260" height="150" as="geometry" />
+          <mxGeometry x="144.38" y="5617" width="260" height="150" as="geometry" />
         </mxCell>
         <mxCell id="y80oxE0x33iAmiCYXVPJ-16" value="Poisson Random Variable" style="ellipse;whiteSpace=wrap;html=1;fontSize=28;" parent="1" vertex="1">
           <mxGeometry x="148.75" y="5800" width="260" height="150" as="geometry" />
@@ -729,7 +729,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="h3QKCOle_QqqLjs1MJjv-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=28;" parent="1" source="ouYZ87-VFuoqLtjuJrLR-40" target="h3QKCOle_QqqLjs1MJjv-73" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1246" y="3960" />
+              <mxPoint x="1246" y="5285" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="ouYZ87-VFuoqLtjuJrLR-40" value="Normal Distribution" style="ellipse;whiteSpace=wrap;html=1;fontSize=28;" parent="1" vertex="1">
           <mxGeometry x="635.01" y="3890" width="260" height="140" as="geometry" />
@@ -772,8 +777,8 @@
         <mxCell id="h3QKCOle_QqqLjs1MJjv-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=28;" parent="1" source="ouYZ87-VFuoqLtjuJrLR-43" target="h3QKCOle_QqqLjs1MJjv-75" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="950" y="5100" />
-              <mxPoint x="950" y="5483" />
+              <mxPoint x="1090" y="5100" />
+              <mxPoint x="1090" y="5482" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -1066,8 +1071,8 @@
         <mxCell id="GwkNrBlDfvbYiTtJVMq1-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="h3QKCOle_QqqLjs1MJjv-63" target="GwkNrBlDfvbYiTtJVMq1-51">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="2080" y="4865" />
-              <mxPoint x="2080" y="3671" />
+              <mxPoint x="2130" y="4865" />
+              <mxPoint x="2130" y="3671" />
             </Array>
           </mxGeometry>
         </mxCell>
