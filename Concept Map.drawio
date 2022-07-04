@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-04T11:05:24.442Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="b_YLdH9RKexiq921zsYV" version="20.0.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-07-04T11:22:09.685Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="E0lsiKY0c_f_vcv5aMc9" version="20.0.3" type="github" pages="2">
   <diagram id="y4US1xTcursLQJIFUWQn" name="28 June">
     <mxGraphModel dx="2966" dy="1563" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -1500,7 +1500,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="4 July" id="zr9vhWUPV22KalPDeycb">
-    <mxGraphModel dx="4152" dy="2188" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="4152" dy="2188" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="lQEhtGsdl0oAPMTliOCL-0" />
         <mxCell id="lQEhtGsdl0oAPMTliOCL-1" parent="lQEhtGsdl0oAPMTliOCL-0" />
@@ -2995,6 +2995,12 @@
         </mxCell>
         <mxCell id="lQEhtGsdl0oAPMTliOCL-293" value="Gradient Boosting" style="ellipse;whiteSpace=wrap;html=1;fontSize=28;" vertex="1" parent="lQEhtGsdl0oAPMTliOCL-1">
           <mxGeometry x="2682.51" y="5585" width="254.99" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="TIy-gaGwOH1iTCfzj8CC-0" value="K Means clustering" style="ellipse;whiteSpace=wrap;html=1;fontSize=28;" vertex="1" parent="lQEhtGsdl0oAPMTliOCL-1">
+          <mxGeometry x="2675.01" y="5887" width="254.99" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="TIy-gaGwOH1iTCfzj8CC-2" value="Artificial Neural Networks" style="ellipse;whiteSpace=wrap;html=1;fontSize=28;" vertex="1" parent="lQEhtGsdl0oAPMTliOCL-1">
+          <mxGeometry x="2682.5" y="6050" width="254.99" height="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
