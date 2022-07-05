@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-05T06:15:32.056Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="s50ZzcxsyTvmeBR-F4Tn" version="20.0.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-07-05T06:17:43.051Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="gKdajr2h4a_DyQ3h9hvb" version="20.0.4" type="github" pages="2">
   <diagram id="y4US1xTcursLQJIFUWQn" name="28 June">
     <mxGraphModel dx="1038" dy="547" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -2877,6 +2877,14 @@
         <mxCell id="lQEhtGsdl0oAPMTliOCL-255" value="Generative Functions" style="ellipse;whiteSpace=wrap;html=1;fontSize=28;" parent="lQEhtGsdl0oAPMTliOCL-1" vertex="1">
           <mxGeometry x="2682.5" y="2350" width="254.99" height="130" as="geometry" />
         </mxCell>
+        <mxCell id="CTHDUX6DJCQCBTOvbFK0-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="lQEhtGsdl0oAPMTliOCL-1" source="lQEhtGsdl0oAPMTliOCL-256" target="CTHDUX6DJCQCBTOvbFK0-91">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3380" y="2575" />
+              <mxPoint x="3380" y="5506" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="lQEhtGsdl0oAPMTliOCL-256" value="Naive Bayes Classifier" style="ellipse;whiteSpace=wrap;html=1;fontSize=28;" parent="lQEhtGsdl0oAPMTliOCL-1" vertex="1">
           <mxGeometry x="2682.5" y="2510" width="254.99" height="130" as="geometry" />
         </mxCell>
@@ -3306,6 +3314,9 @@
         </mxCell>
         <mxCell id="CTHDUX6DJCQCBTOvbFK0-89" value="Perceptron" style="ellipse;whiteSpace=wrap;html=1;fontSize=28;" vertex="1" parent="lQEhtGsdl0oAPMTliOCL-1">
           <mxGeometry x="3897.5" y="5291" width="254.99" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="CTHDUX6DJCQCBTOvbFK0-91" value="Naive Bayes Classifier" style="ellipse;whiteSpace=wrap;html=1;fontSize=28;" vertex="1" parent="lQEhtGsdl0oAPMTliOCL-1">
+          <mxGeometry x="3897.5" y="5441" width="254.99" height="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
