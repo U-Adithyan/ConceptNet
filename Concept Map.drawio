@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-05T05:56:48.641Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="7W_5bCtv3cLceMYa3PIV" version="20.0.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-07-05T06:15:32.056Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="s50ZzcxsyTvmeBR-F4Tn" version="20.0.4" type="github" pages="2">
   <diagram id="y4US1xTcursLQJIFUWQn" name="28 June">
     <mxGraphModel dx="1038" dy="547" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -1500,7 +1500,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="4 July" id="zr9vhWUPV22KalPDeycb">
-    <mxGraphModel dx="2076" dy="1094" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="3460" dy="1823" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="lQEhtGsdl0oAPMTliOCL-0" />
         <mxCell id="lQEhtGsdl0oAPMTliOCL-1" parent="lQEhtGsdl0oAPMTliOCL-0" />
@@ -2712,11 +2712,27 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="CTHDUX6DJCQCBTOvbFK0-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="lQEhtGsdl0oAPMTliOCL-1" source="lQEhtGsdl0oAPMTliOCL-232" target="CTHDUX6DJCQCBTOvbFK0-83">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3180" y="945" />
+              <mxPoint x="3180" y="5040" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="lQEhtGsdl0oAPMTliOCL-232" value="Linear Regression" style="ellipse;whiteSpace=wrap;html=1;fontSize=28;" parent="lQEhtGsdl0oAPMTliOCL-1" vertex="1">
           <mxGeometry x="2682.51" y="880" width="254.99" height="130" as="geometry" />
         </mxCell>
         <mxCell id="lQEhtGsdl0oAPMTliOCL-233" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="lQEhtGsdl0oAPMTliOCL-1" source="lQEhtGsdl0oAPMTliOCL-234" target="lQEhtGsdl0oAPMTliOCL-239" edge="1">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CTHDUX6DJCQCBTOvbFK0-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="lQEhtGsdl0oAPMTliOCL-1" source="lQEhtGsdl0oAPMTliOCL-234" target="CTHDUX6DJCQCBTOvbFK0-86">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3240" y="1115" />
+              <mxPoint x="3240" y="5152" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="lQEhtGsdl0oAPMTliOCL-234" value="Polynomial Regression" style="ellipse;whiteSpace=wrap;html=1;fontSize=28;" parent="lQEhtGsdl0oAPMTliOCL-1" vertex="1">
           <mxGeometry x="2682.51" y="1050" width="254.99" height="130" as="geometry" />
@@ -2748,6 +2764,14 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="CTHDUX6DJCQCBTOvbFK0-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="lQEhtGsdl0oAPMTliOCL-1" source="lQEhtGsdl0oAPMTliOCL-239" target="CTHDUX6DJCQCBTOvbFK0-86">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3280" y="1295" />
+              <mxPoint x="3280" y="5198" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="lQEhtGsdl0oAPMTliOCL-239" value="Regularisation" style="ellipse;whiteSpace=wrap;html=1;fontSize=28;" parent="lQEhtGsdl0oAPMTliOCL-1" vertex="1">
           <mxGeometry x="2682.51" y="1230" width="254.99" height="130" as="geometry" />
         </mxCell>
@@ -2758,7 +2782,12 @@
           <mxGeometry x="2682.5" y="400" width="254.99" height="130" as="geometry" />
         </mxCell>
         <mxCell id="CTHDUX6DJCQCBTOvbFK0-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="lQEhtGsdl0oAPMTliOCL-1" source="lQEhtGsdl0oAPMTliOCL-242" target="CTHDUX6DJCQCBTOvbFK0-20">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3120" y="615" />
+              <mxPoint x="3120" y="1195" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="lQEhtGsdl0oAPMTliOCL-242" value="Preprocessing" style="ellipse;whiteSpace=wrap;html=1;fontSize=28;" parent="lQEhtGsdl0oAPMTliOCL-1" vertex="1">
           <mxGeometry x="2682.51" y="550" width="254.99" height="130" as="geometry" />
@@ -2816,6 +2845,14 @@
         </mxCell>
         <mxCell id="lQEhtGsdl0oAPMTliOCL-250" value="Discriminant Functions" style="ellipse;whiteSpace=wrap;html=1;fontSize=28;" parent="lQEhtGsdl0oAPMTliOCL-1" vertex="1">
           <mxGeometry x="2682.51" y="1705" width="254.99" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="CTHDUX6DJCQCBTOvbFK0-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="lQEhtGsdl0oAPMTliOCL-1" source="lQEhtGsdl0oAPMTliOCL-251" target="CTHDUX6DJCQCBTOvbFK0-89">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3332" y="2085" />
+              <mxPoint x="3332" y="5356" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="lQEhtGsdl0oAPMTliOCL-251" value="Perceptron" style="ellipse;whiteSpace=wrap;html=1;fontSize=28;" parent="lQEhtGsdl0oAPMTliOCL-1" vertex="1">
           <mxGeometry x="2682.5" y="2020" width="254.99" height="130" as="geometry" />
@@ -3260,6 +3297,15 @@
         </mxCell>
         <mxCell id="CTHDUX6DJCQCBTOvbFK0-80" value="Feature Union" style="ellipse;whiteSpace=wrap;html=1;fontSize=28;" vertex="1" parent="lQEhtGsdl0oAPMTliOCL-1">
           <mxGeometry x="3897.5" y="4820" width="254.99" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="CTHDUX6DJCQCBTOvbFK0-83" value="Linear Regression" style="ellipse;whiteSpace=wrap;html=1;fontSize=28;" vertex="1" parent="lQEhtGsdl0oAPMTliOCL-1">
+          <mxGeometry x="3897.5" y="4975" width="254.99" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="CTHDUX6DJCQCBTOvbFK0-86" value="Polynomial Regression" style="ellipse;whiteSpace=wrap;html=1;fontSize=28;" vertex="1" parent="lQEhtGsdl0oAPMTliOCL-1">
+          <mxGeometry x="3897.5" y="5133" width="254.99" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="CTHDUX6DJCQCBTOvbFK0-89" value="Perceptron" style="ellipse;whiteSpace=wrap;html=1;fontSize=28;" vertex="1" parent="lQEhtGsdl0oAPMTliOCL-1">
+          <mxGeometry x="3897.5" y="5291" width="254.99" height="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
