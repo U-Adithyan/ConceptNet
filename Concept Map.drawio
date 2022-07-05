@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-05T07:51:04.129Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="AOfFH8Sza_xETmfv8XCn" version="20.0.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-07-05T07:54:50.201Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="xijTIX-HGgt6rJY4nise" version="20.0.4" type="github" pages="2">
   <diagram id="y4US1xTcursLQJIFUWQn" name="28 June">
     <mxGraphModel dx="1038" dy="547" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -3161,6 +3161,14 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="CTHDUX6DJCQCBTOvbFK0-120" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="lQEhtGsdl0oAPMTliOCL-1" source="TIy-gaGwOH1iTCfzj8CC-0" target="CTHDUX6DJCQCBTOvbFK0-119">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3383" y="5885" />
+              <mxPoint x="3383" y="7276" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="TIy-gaGwOH1iTCfzj8CC-0" value="K Means clustering" style="ellipse;whiteSpace=wrap;html=1;fontSize=28;" parent="lQEhtGsdl0oAPMTliOCL-1" vertex="1">
           <mxGeometry x="2682.51" y="5820" width="254.99" height="130" as="geometry" />
         </mxCell>
@@ -3441,6 +3449,15 @@
         </mxCell>
         <mxCell id="CTHDUX6DJCQCBTOvbFK0-113" value="GradientBoost" style="ellipse;whiteSpace=wrap;html=1;fontSize=28;" vertex="1" parent="lQEhtGsdl0oAPMTliOCL-1">
           <mxGeometry x="4160" y="6912" width="254.99" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="CTHDUX6DJCQCBTOvbFK0-123" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=28;" edge="1" parent="lQEhtGsdl0oAPMTliOCL-1" source="CTHDUX6DJCQCBTOvbFK0-119" target="CTHDUX6DJCQCBTOvbFK0-122">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CTHDUX6DJCQCBTOvbFK0-119" value="K Means clustering" style="ellipse;whiteSpace=wrap;html=1;fontSize=28;" vertex="1" parent="lQEhtGsdl0oAPMTliOCL-1">
+          <mxGeometry x="3890" y="7211" width="254.99" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="CTHDUX6DJCQCBTOvbFK0-122" value="Hierarchical Agglomerative Clustering" style="ellipse;whiteSpace=wrap;html=1;fontSize=28;" vertex="1" parent="lQEhtGsdl0oAPMTliOCL-1">
+          <mxGeometry x="3890" y="7388" width="254.99" height="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
