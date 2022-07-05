@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-05T07:54:50.201Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="xijTIX-HGgt6rJY4nise" version="20.0.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-07-05T07:55:52.760Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="6coKSpWhRaxBJUw-d_Ag" version="20.0.4" type="github" pages="2">
   <diagram id="y4US1xTcursLQJIFUWQn" name="28 June">
     <mxGraphModel dx="1038" dy="547" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -1500,7 +1500,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="4 July" id="zr9vhWUPV22KalPDeycb">
-    <mxGraphModel dx="3460" dy="1823" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="20760" dy="10940" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="lQEhtGsdl0oAPMTliOCL-0" />
         <mxCell id="lQEhtGsdl0oAPMTliOCL-1" parent="lQEhtGsdl0oAPMTliOCL-0" />
@@ -3189,6 +3189,14 @@
         <mxCell id="CTHDUX6DJCQCBTOvbFK0-2" value="Silhoutte Coefficient" style="ellipse;whiteSpace=wrap;html=1;fontSize=28;" vertex="1" parent="lQEhtGsdl0oAPMTliOCL-1">
           <mxGeometry x="2682.5" y="6120" width="254.99" height="130" as="geometry" />
         </mxCell>
+        <mxCell id="CTHDUX6DJCQCBTOvbFK0-125" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=28;" edge="1" parent="lQEhtGsdl0oAPMTliOCL-1" source="CTHDUX6DJCQCBTOvbFK0-6" target="CTHDUX6DJCQCBTOvbFK0-124">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3473" y="6485" />
+              <mxPoint x="3473" y="7630" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="CTHDUX6DJCQCBTOvbFK0-6" value="Layers and Activations" style="ellipse;whiteSpace=wrap;html=1;fontSize=28;" vertex="1" parent="lQEhtGsdl0oAPMTliOCL-1">
           <mxGeometry x="2682.51" y="6420" width="254.99" height="130" as="geometry" />
         </mxCell>
@@ -3458,6 +3466,9 @@
         </mxCell>
         <mxCell id="CTHDUX6DJCQCBTOvbFK0-122" value="Hierarchical Agglomerative Clustering" style="ellipse;whiteSpace=wrap;html=1;fontSize=28;" vertex="1" parent="lQEhtGsdl0oAPMTliOCL-1">
           <mxGeometry x="3890" y="7388" width="254.99" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="CTHDUX6DJCQCBTOvbFK0-124" value="Multi Layer Perceptron" style="ellipse;whiteSpace=wrap;html=1;fontSize=28;" vertex="1" parent="lQEhtGsdl0oAPMTliOCL-1">
+          <mxGeometry x="3890" y="7565" width="254.99" height="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
