@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-05T06:17:43.051Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="gKdajr2h4a_DyQ3h9hvb" version="20.0.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-07-05T06:20:01.020Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="I_N_fyBCzKD38Y9OQ75b" version="20.0.4" type="github" pages="2">
   <diagram id="y4US1xTcursLQJIFUWQn" name="28 June">
     <mxGraphModel dx="1038" dy="547" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -2899,6 +2899,9 @@
         <mxCell id="lQEhtGsdl0oAPMTliOCL-258" value="Generalised Linear Models" style="ellipse;whiteSpace=wrap;html=1;fontSize=28;" parent="lQEhtGsdl0oAPMTliOCL-1" vertex="1">
           <mxGeometry x="2682.5" y="2670" width="254.99" height="130" as="geometry" />
         </mxCell>
+        <mxCell id="CTHDUX6DJCQCBTOvbFK0-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="lQEhtGsdl0oAPMTliOCL-1" source="lQEhtGsdl0oAPMTliOCL-259" target="CTHDUX6DJCQCBTOvbFK0-93">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="lQEhtGsdl0oAPMTliOCL-259" value="Softmax Regression" style="ellipse;whiteSpace=wrap;html=1;fontSize=28;" parent="lQEhtGsdl0oAPMTliOCL-1" vertex="1">
           <mxGeometry x="2682.5" y="2980" width="254.99" height="130" as="geometry" />
         </mxCell>
@@ -2916,6 +2919,14 @@
             <Array as="points">
               <mxPoint x="3080" y="3205" />
               <mxPoint x="3080" y="1065" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CTHDUX6DJCQCBTOvbFK0-96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="lQEhtGsdl0oAPMTliOCL-1" source="lQEhtGsdl0oAPMTliOCL-263" target="CTHDUX6DJCQCBTOvbFK0-94">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3017" y="3205" />
+              <mxPoint x="3017" y="5806" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -3317,6 +3328,21 @@
         </mxCell>
         <mxCell id="CTHDUX6DJCQCBTOvbFK0-91" value="Naive Bayes Classifier" style="ellipse;whiteSpace=wrap;html=1;fontSize=28;" vertex="1" parent="lQEhtGsdl0oAPMTliOCL-1">
           <mxGeometry x="3897.5" y="5441" width="254.99" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="CTHDUX6DJCQCBTOvbFK0-93" value="Softmax Regression" style="ellipse;whiteSpace=wrap;html=1;fontSize=28;" vertex="1" parent="lQEhtGsdl0oAPMTliOCL-1">
+          <mxGeometry x="3897.5" y="5591" width="254.99" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="CTHDUX6DJCQCBTOvbFK0-94" value="K-Nearest Neighbors" style="ellipse;whiteSpace=wrap;html=1;fontSize=28;" vertex="1" parent="lQEhtGsdl0oAPMTliOCL-1">
+          <mxGeometry x="3890" y="5741" width="254.99" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="CTHDUX6DJCQCBTOvbFK0-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="lQEhtGsdl0oAPMTliOCL-1" source="CTHDUX6DJCQCBTOvbFK0-97" target="CTHDUX6DJCQCBTOvbFK0-98">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CTHDUX6DJCQCBTOvbFK0-97" value="Large Scale Machine Learning" style="ellipse;whiteSpace=wrap;html=1;fontSize=28;" vertex="1" parent="lQEhtGsdl0oAPMTliOCL-1">
+          <mxGeometry x="3893" y="5890" width="254.99" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="CTHDUX6DJCQCBTOvbFK0-98" value="Partial Fit Method" style="ellipse;whiteSpace=wrap;html=1;fontSize=28;" vertex="1" parent="lQEhtGsdl0oAPMTliOCL-1">
+          <mxGeometry x="4157" y="6010" width="254.99" height="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
