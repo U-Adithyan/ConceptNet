@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-17T07:40:05.346Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="MoHlvnqTz-IgiqLVqOfX" version="20.0.4" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-07-17T07:40:50.974Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="LzJ4FBKU2a8NDyga46_l" version="20.0.4" type="github" pages="4">
   <diagram id="y4US1xTcursLQJIFUWQn" name="28 June">
     <mxGraphModel dx="1038" dy="547" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -3474,16 +3474,10 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Copy of 4 July" id="Iqjw6MBksbgK__b-Y6lt">
-    <mxGraphModel dx="3460" dy="1823" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="4152" dy="2188" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="noMCUq46DoofIJz3uNyQ-0" />
         <mxCell id="noMCUq46DoofIJz3uNyQ-1" parent="noMCUq46DoofIJz3uNyQ-0" />
-        <mxCell id="noMCUq46DoofIJz3uNyQ-2" value="MATHS" style="rounded=1;whiteSpace=wrap;html=1;fontSize=51;" vertex="1" parent="noMCUq46DoofIJz3uNyQ-1">
-          <mxGeometry x="80" y="90" width="960" height="140" as="geometry" />
-        </mxCell>
-        <mxCell id="noMCUq46DoofIJz3uNyQ-3" value="MACHINE LEARNING FOUNDATIONS" style="rounded=1;whiteSpace=wrap;html=1;fontSize=51;" vertex="1" parent="noMCUq46DoofIJz3uNyQ-1">
-          <mxGeometry x="1200" y="90" width="960" height="150" as="geometry" />
-        </mxCell>
         <mxCell id="noMCUq46DoofIJz3uNyQ-31" value="STATISTICS" style="rounded=1;whiteSpace=wrap;html=1;fontSize=51;" vertex="1" parent="noMCUq46DoofIJz3uNyQ-1">
           <mxGeometry x="80" y="2810" width="960" height="150" as="geometry" />
         </mxCell>
@@ -3944,9 +3938,6 @@
         <mxCell id="noMCUq46DoofIJz3uNyQ-158" value="Likelihood Ratio Test" style="ellipse;whiteSpace=wrap;html=1;fontSize=28;" vertex="1" parent="noMCUq46DoofIJz3uNyQ-1">
           <mxGeometry x="632.5" y="6230" width="260" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="noMCUq46DoofIJz3uNyQ-161" value="Basic Calculus" style="ellipse;whiteSpace=wrap;html=1;fontSize=28;" vertex="1" parent="noMCUq46DoofIJz3uNyQ-1">
-          <mxGeometry x="1520" y="480" width="254.99" height="130" as="geometry" />
-        </mxCell>
         <mxCell id="noMCUq46DoofIJz3uNyQ-212" value="Probabilistic Models in Machine Learning" style="ellipse;whiteSpace=wrap;html=1;fontSize=28;" vertex="1" parent="noMCUq46DoofIJz3uNyQ-1">
           <mxGeometry x="1510.5" y="4970" width="289.5" height="170" as="geometry" />
         </mxCell>
@@ -3972,7 +3963,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="rAqB41kYr2Ghf0NnPO1j" name="Final">
-    <mxGraphModel dx="28760" dy="10940" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="4681" pageHeight="3300" background="none" math="0" shadow="0">
+    <mxGraphModel dx="30122" dy="10940" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
